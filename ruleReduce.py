@@ -1,6 +1,6 @@
 #!/usr/bin/python
 '''
-Copyright (c) 2011, JS Beecher
+Copyright (c) 2011, phi
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
